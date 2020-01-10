@@ -1,1 +1,1 @@
-web: julia --project dashex.jl $PORT
+web: julia --project app.jl $PORT
